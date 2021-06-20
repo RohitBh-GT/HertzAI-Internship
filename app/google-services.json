@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324435921457",
+    "project_id": "hertzai",
+    "storage_bucket": "hertzai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324435921457:android:35b010bd87344e1c1e2310",
+        "android_client_info": {
+          "package_name": "com.android.hertzai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324435921457-999crlpkbh1vbpn4go6gqlelg9sjv786.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa8Xp1omQh6ZBCbmC24IxRziqyvXSpv_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324435921457-999crlpkbh1vbpn4go6gqlelg9sjv786.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
